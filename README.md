@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Cloud DevOps Engineering
 - 👯 I’m looking to collaborate on any DevOps project
 - 🤔 I’m looking for a Junior / Apprenticeship DevOps role
-- 💬 Ask me Aws and Google Cloud Platform
+- 💬 Ask me anything AWS or Google Cloud Platform
 - 📫 Reach me at: Twitter - @charlesgreston
 - 😄 Pronouns: Him / His
-- ⚡ Fun fact: Charles likes talk on Governance and policy.
+- ⚡ Fun fact: Charles' deep-dived into Google Africa Developer Scholarship 2021
