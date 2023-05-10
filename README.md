@@ -1,6 +1,6 @@
 ### Hi there, its Charles 👋
 
-#### Am a Cloud DevOps Engineer
+#### Cloud DevOps Engineer / SRE
 - 🔭 I’m currently working on a microservice deployment of an online shop application on Kubernetes
 - 👯 Striving for DevOps expertise
 - 💬 Ask me anything AWS or Google Cloud Platform
